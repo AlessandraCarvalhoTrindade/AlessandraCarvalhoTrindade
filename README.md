@@ -2,32 +2,46 @@
 
 Estudante de **Desenvolvimento de Sistemas para Internet** na Estácio, em transição de carreira da área de Back Office para a tecnologia.
 
-Atualmente estou focada em aprender **Front-end** e construir uma base sólida em desenvolvimento web.
+Atualmente focada em **Front-end** (HTML, CSS, JavaScript) e construindo projetos práticos para consolidar meus conhecimentos.
 
-### 🛠️ Tecnologias que estou estudando
+🔗 **Meu Portfólio:** [https://alessandracarvalhotrindade.github.io/portfolio/](https://alessandracarvalhotrindade.github.io/portfolio/)
+
+### 🛠️ Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
-- React
 - Git & GitHub
+- React (em aprendizado)
+- LocalStorage
 
-### 📂 Projetos
+### 📂 Projetos em destaque
 
-- [Biscoito da Sorte](https://github.com/AlessandraCarvalhoTrindade/Biscoittodasorte) — App simples criado com React e JavaScript
-- [Formulário de Clientes](https://github.com/AlessandraCarvalhoTrindade/Formulario-clientes) — Formulário em HTML
-- [Tela de Login](https://github.com/AlessandraCarvalhoTrindade/tela-login) — Interface de login
+- **[To-Do List](https://alessandracarvalhotrindade.github.io/todo-list/)**  
+  Lista de tarefas completa com adicionar, concluir, excluir, filtros e salvamento automático (LocalStorage).
+
+- **[Portfólio Pessoal](https://alessandracarvalhotrindade.github.io/portfolio/)**  
+  Meu site pessoal com apresentação, tecnologias e projetos.
+
+- **[Apoio](https://alessandracarvalhotrindade.github.io/apoio/)**  
+  Aplicativo de apoio emocional que identifica palavras-chave e retorna mensagens personalizadas.
+
+- **[Speak Practice](https://alessandracarvalhotrindade.github.io/speak-practice/)**  
+  App para praticar conversação em inglês com reconhecimento de voz e respostas exemplo.
+
+- **[Raspadinha da Sorte](https://alessandracarvalhotrindade.github.io/raspadinha/)**  
+  Jogo de raspadinha com sistema de pontos e prêmios aleatórios.
 
 ### 🌱 Atualmente estudando
 
-- Lógica de Programação
-- JavaScript
+- JavaScript (lógica e DOM)
 - React
 - CC50 (Ciência da Computação - Harvard)
+- Boas práticas de organização de código
 
 ### 📍 Localização
 Bauru - SP
 
 ---
 
-💡 Estou aberta a oportunidades de aprendizado, projetos colaborativos e posições de entrada na área de tecnologia.
+💡 Aberta a oportunidades de aprendizado, projetos colaborativos e posições de entrada na área de tecnologia (Front-end / Desenvolvimento).
